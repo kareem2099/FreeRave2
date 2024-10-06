@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "388664122102",
+    "project_id": "freerave-23-12-21",
+    "storage_bucket": "freerave-23-12-21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388664122102:android:625cc40f670bdb76edead7",
+        "android_client_info": {
+          "package_name": "com.example.freerave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388664122102-jfftoff996usoh4a73le6ktr5m9l2n6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freerave",
+            "certificate_hash": "5579f9821a061a68017fa6dc51c31984849090bb"
+          }
+        },
+        {
+          "client_id": "388664122102-6h3otioebsst3rsn5u7r2somc8crrsh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADX23yb6ZWcnBt4sRcbOh1sDOcwrrBo_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388664122102-6h3otioebsst3rsn5u7r2somc8crrsh8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388664122102-jvns9pp4vc78pc7pe0p564f0s4rmr1nr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clickCounter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

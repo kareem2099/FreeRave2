@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "freerave-23-12-21",
+          "appId": "1:388664122102:android:625cc40f670bdb76edead7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "freerave-23-12-21",
+          "configurations": {
+            "android": "1:388664122102:android:625cc40f670bdb76edead7",
+            "ios": "1:388664122102:ios:c1e89e66f51e900bedead7",
+            "web": "1:388664122102:web:1343b54ab5aeb4c3edead7"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
